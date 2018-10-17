@@ -69,7 +69,11 @@ Congratulations! You have guessed the number!  It took you 37 guesses.
 * Make sure you modify the link at the top of your **Readme.md** to reflect your username if you want the badge at the top to represent the status of your code.
 
 ## Grading
-* 90 - Works correctly
+* 20 - Create the random number with the correct number of digits.
+* 25 - Correctly identify how many digits are in the right place.
+* 25 - Correctly identify how many digits are in the wrong place.
+* 15 - Good output.
 * 10 - style
+* -15 if leading zeros break your program.
 
 Note that these are potential maximums; the computer can only check so much.  If your code passes Checkstyle, but I see non-descriptive variable names, then your style grade will go down.  If your code passes all tests, but I see code that was copied off of the internet or from another student your grade will go *way* down.
